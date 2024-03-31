@@ -4,6 +4,9 @@
 
 Мои работы на github которые вы можете посмотреть^^
 
+- SPA приложение на React: Сообщества во Вконтакте с применением фильтров
+https://vk-internship-eta.vercel.app/
+
 - Разработка Task manager - управление задачами на java script
 https://maxhasanov.github.io/Task-Manager/
 
